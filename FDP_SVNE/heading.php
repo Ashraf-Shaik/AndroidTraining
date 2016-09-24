@@ -1,0 +1,1 @@
+<h3>Date: <?php $today = date("D M d Y"); echo $today; ?></h3>
